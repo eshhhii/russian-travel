@@ -1,0 +1,40 @@
+.cover{
+max-width: 1184px;
+display:flex;
+justify-content: center;
+align-items: center;
+margin: 0 auto;
+margin-bottom: 92px;
+overflow: hidden;
+}
+
+
+@media all and (max-width: 1024px){
+    .cover{
+    /*width: 100%;*/
+    min-height: 640px;
+    }
+}
+@media all and (max-width: 768px){
+    .cover{
+    min-height: 480px;
+    }
+}
+@media all and (max-width: 425px) {
+    .cover{
+    min-height: 267px;  
+    }
+}
+@media all and (max-width: 375px) {
+    .cover{
+    min-height: 234px;  
+    }
+
+}
+
+@media all and (max-width: 320px){
+    .cover{
+    min-height: 200px;
+    margin-bottom: 64px;
+    }
+}
