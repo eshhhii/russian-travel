@@ -6,18 +6,15 @@
 @media all and (max-width: 1024px) {
     .lead {
         max-width: calc(100% - 96px);
-        height: 962px;
     }
 }
 @media all and (max-width: 768px) {
     .lead {
         max-width: 100%;
-        height: 862px;
     }
 }
 @media all and (max-width: 320px) {
     .lead {
         max-width: 100%;
-        height: 406px;
     }
 }

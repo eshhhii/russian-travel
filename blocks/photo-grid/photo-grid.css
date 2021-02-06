@@ -1,6 +1,5 @@
 .photo-grid {
     max-width: 1184px;
-    min-height: 671px;
     margin: 0 auto;
     margin-bottom: 92px;
 }
@@ -8,7 +7,6 @@
 @media all and (max-width: 1024px) {
     .photo-grid {
         max-width: calc(100% - 96px);
-        min-height: 942px;
     }
 }
 
