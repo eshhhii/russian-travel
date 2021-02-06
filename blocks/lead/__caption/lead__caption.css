@@ -1,12 +1,12 @@
-.lead__caption{
-font-style: normal;
-font-weight: normal;
-font-size: 10px;
-line-height: 14px;
-letter-spacing: 0.15em;
-text-transform: uppercase;
-color: #FFFFFF;
-margin-top: 8px;
-margin-bottom: 0;
-text-align: left;
+.lead__caption {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-top: 8px;
+    margin-bottom: 0;
+    text-align: left;
 }
