@@ -5,9 +5,14 @@
     margin-right: 0;
 }
 
-@media all and (max-width: 320px) {
+
+@media all and (max-width: 586px) {
     .footer__list-item {
         padding-bottom: 32px;
         margin-right: 0;
     }
-}
+
+    .footer__list-item:last-child {
+        padding-bottom: 0;
+    }
+} 

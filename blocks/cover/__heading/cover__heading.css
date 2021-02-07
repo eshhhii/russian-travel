@@ -37,14 +37,12 @@
 
 @media all and (max-width: 768px) {
     .cover__heading {
-        max-width: 100%;
         min-height: 480px;
     }
 }
 
 @media all and (max-width: 320px) {
     .cover__heading {
-        max-width: 100%;
         min-height: 200px;
     }
 }

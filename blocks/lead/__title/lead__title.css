@@ -18,12 +18,13 @@
         padding-right: 152px;
     }
 }
+
 @media all and (max-width: 1023px) {
     .lead__title {
         padding-left: auto;
         padding-right: auto;
     }
-}
+} 
 
 @media all and (max-width: 768px) {
     .lead__title {
@@ -42,8 +43,6 @@
 @media all and (max-width: 320px) {
     .lead__title {
         max-width: 288px;
-        font-size: 40px;
-        line-height: 44px;
         margin-bottom: 16px;
     }
 }

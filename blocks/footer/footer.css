@@ -16,19 +16,17 @@
         max-width: 720px;
     }
 }
-@media all and (min-width: 321px) and (max-width: 586px) {
+@media all and (max-width: 586px) {
     .footer {
-        min-width: 184px;
-        min-height: 312px;
-        margin-left: 16px;
+        min-width: 186px;
+        padding-left: 16px;
+        padding-right: 121px;
         flex-direction: column;
     }
 }
 @media all and (max-width: 320px) {
     .footer {
         max-width: 186px;
-        min-height: 310px;
-        margin-left: 16px;
-        flex-direction: column;
+        padding-right: 118px;
     }
 }

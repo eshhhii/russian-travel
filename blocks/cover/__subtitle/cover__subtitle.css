@@ -9,10 +9,6 @@
     text-align: center;
     z-index: 2;
 }
-.cover__subtitle:hover {
-    opacity: 0.8;
-    transition: 0.3s;
-}
 
 @media all and (max-width: 320px) {
     .cover__subtitle {
