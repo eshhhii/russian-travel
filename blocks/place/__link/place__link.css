@@ -8,4 +8,5 @@
 }
 .place__link:hover {
     opacity: 0.8;
+    transition: linear 0.3s;
 }

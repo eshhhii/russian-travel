@@ -1,36 +1,14 @@
 .lead__title {
-    max-width: 784px;
+    max-width: 720px;
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
     line-height: 100px;
     text-align: center;
     color: #ffffff;
-    padding-left: 132px;
-    padding-right: 132px;
+    margin: 0 auto;
     margin-bottom: 32px;
     margin-top: 0;
-}
-
-@media all and (max-width: 1024px) {
-    .lead__title {
-        padding-left: 152px;
-        padding-right: 152px;
-    }
-}
-
-@media all and (max-width: 1023px) {
-    .lead__title {
-        padding-left: auto;
-        padding-right: auto;
-    }
-} 
-
-@media all and (max-width: 768px) {
-    .lead__title {
-        padding-left: 24px;
-        padding-right: 24px;
-    }
 }
 
 @media all and (max-width: 767px) {

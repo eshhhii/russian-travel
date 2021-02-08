@@ -26,7 +26,6 @@
 }
 @media all and (max-width: 320px) {
     .footer {
-        max-width: 186px;
         padding-right: 118px;
     }
 }

@@ -2,26 +2,20 @@
     height: 460px;
 }
 
-@media all and (max-width: 1024px) {
+@media all and (max-width: 1279px) {
     .place__image {
         height: 440px;
     }
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 1023px) {
     .place__image {
         height: 340px;
-    }
-}
-@media all and (min-width: 321px) and (max-width: 767px) {
-    .place__image {
-        height: 100%;
-        max-width: 100%;
     }
 }
 @media all and (max-width: 320px) {
     .place__image {
         height: 320px;
-        max-width: 320px;
+        width: 320px;
     }
 }

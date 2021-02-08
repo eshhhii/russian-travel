@@ -20,7 +20,7 @@
 }
 @media all and (max-width: 425px) {
     .cover {
-        min-height: 267px;
+        min-height: 266px;
     }
 }
 @media all and (max-width: 375px) {
