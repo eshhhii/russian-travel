@@ -18,14 +18,10 @@
 }
 @media all and (max-width: 586px) {
     .footer {
-        min-width: 186px;
+        max-width: 186px;
+        margin-left: 0;
+        margin-right: 0;
         padding-left: 16px;
-        padding-right: 121px;
         flex-direction: column;
-    }
-}
-@media all and (max-width: 320px) {
-    .footer {
-        padding-right: 118px;
     }
 }

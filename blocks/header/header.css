@@ -18,7 +18,7 @@
         max-width: calc(100% - 48px);
     }
 }
-@media all and (max-width: 320px) {
+@media all and (max-width: 586px) {
     .header {
         max-width: calc(100% - 32px);
         padding-top: 16px;

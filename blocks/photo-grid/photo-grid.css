@@ -16,7 +16,7 @@
     }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 586px) {
     .photo-grid {
         max-width: 90%;
         margin-bottom: 64px;
